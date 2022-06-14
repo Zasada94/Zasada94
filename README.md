@@ -6,7 +6,7 @@ I am a Frontend Developer and graduated Enginneer. I have finished Civil Enginee
 I am a motivated and well-organized co-worker. I have experience in Project Management along with contact and cooperating with teams / suppliers / contractors. I like learning new skills with Frontend Development in the first place.
 
 - 🌱 I’m currently improving in JavaScript, React, React Native
-- 📫 How to reach me: [My website](https://github.com/Zasada94/PaulsPortfolio)
+- 📫 How to reach me: [My website](https://zasada94.github.io/PaulsPortfolio/)
 
 Skills and Certificates:
 - HTML5,
