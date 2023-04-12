@@ -9,18 +9,7 @@ I am a motivated and well-organized co-worker. I have experience in **Project Ma
 - 📫 How to reach me: [My website](https://zasada94.github.io/zasadaportfolio/)
 
 ### Skills, languages and tools:
-- HTML5,
-- CSS3,
-- SASS/SCSS,
-- JavaScript,
-- React,
-- React Native,
-- Bootstrap,
-- Git,
-- JIRA, Confluence
-- JQuery,
-- Jest,
-- Node.js.
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,git,jquery,jest,nodejs,php,webpack,vite,vscode,figma,ps,netlify,heroku&perline=9)](https://skillicons.dev)
 
 
 ### Other abilities and certificates:
