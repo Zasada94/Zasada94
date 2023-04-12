@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Paweł Zasada
-### Junior Frontend Developer currently working as JavaScript developer in Post Sticker Company. 
+### Junior Frontend Developer currently looking for a new job.
 
 I am a Frontend Developer and graduated Enginneer. I have finished **Civil Engineering studies in Warsaw Politechnics** with a title of Master of Science as well as Computer Science Diploma in **Frontend Development with React** on Kozminsky University. 
 
