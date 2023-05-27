@@ -17,3 +17,6 @@ I have finished **Civil Engineering studies in Warsaw Politechnics** with a titl
 - MS Project, Excel, Word, PowerPoint,
 - Building Information Modelling,
 - Autocad, Mathcad, Norma, FusionLife, CRM, ERP.
+
+### Used languages statistics:
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zasada94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
