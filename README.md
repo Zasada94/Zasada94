@@ -3,7 +3,7 @@
 
 I am a Frontend Developer and graduated Enginneer. I have half year **commercial experience in JavaScript programming** as well as in **Project Management along with contact and cooperating with teams / suppliers / contractors**.  
 
-I have finished **Civil Engineering studies in Warsaw Politechnics** with a title of Master of Science as well as Computer Science Diploma in **Frontend Development with React** on Kozminsky University. I am a motivated and well-organized co-worker. I like learning new skills with Frontend Development in the first place.
+I have finished **Civil Engineering studies in Warsaw University of Technology** with a title of Master of Science as well as Computer Science Diploma in **Frontend Development with React** on Kozminsky University. I am a motivated and well-organized co-worker. I like learning new skills with Frontend Development in the first place.
 
 - 🌱 I’m currently improving in `node.js`, `react`
 - 📫 How to reach me: [My website](https://zasada94.github.io/zasadaportfolio/)
