@@ -5,11 +5,11 @@ I am a Frontend Developer and graduated Enginneer. I have half year **commercial
 
 I have finished **Civil Engineering studies in Warsaw University of Technology** with a title of Master of Science as well as Computer Science Diploma in **Frontend Development with React** on Kozminsky University. I am a motivated and well-organized co-worker. I like learning new skills with Frontend Development in the first place.
 
-- 🌱 I’m currently improving in `node.js`, `react`
+- 🌱 I’m currently improving in `node.js`, `next.js`, `typescript`
 - 📫 How to reach me: [My website](https://zasada94.github.io/zasadaportfolio/)
 
 ### Skills, languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,git,nodejs,php,vite,vscode,figma,netlify,express,github,mongodb,netlify,postman,redux,webpack,jest,ps,bootstrap,jquery,heroku,bash&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,git,nodejs,nextjs,php,vite,vscode,figma,netlify,express,github,mongodb,netlify,postman,redux,webpack,jest,ps,bootstrap,jquery,heroku,bash&perline=9)](https://skillicons.dev)
 
 
 ### Other abilities and certificates:
