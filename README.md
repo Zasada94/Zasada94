@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Paweł Zasada
-### Front-End Developer, currently looking for a new job.
+### Front-End Developer.
 
 I am a Frontend Developer and graduated Enginneer. I have half year **commercial experience in JavaScript programming** as well as in **Project Management along with contact and cooperating with teams / suppliers / contractors**.  
 
