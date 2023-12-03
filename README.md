@@ -1,15 +1,15 @@
 ## Hi there 👋 I am Paweł Zasada
-### Front-End Developer.
+### Full-stack Developer.
 
-I am a Frontend Developer and graduated Enginneer. I have half year **commercial experience in JavaScript programming** as well as in **Project Management along with contact and cooperating with teams / suppliers / contractors**.  
+I am a **Full-stack developer currently working in Telewizja Polsat** company on HbbTV apps and dashboards. I am a graduated Enginneer** experienced in JavaScript programming**.
 
-I have finished **Civil Engineering studies in Warsaw University of Technology** with a title of Master of Science as well as Computer Science Diploma in **Frontend Development with React** on Kozminsky University. I am a motivated and well-organized co-worker. I like learning new skills with Frontend Development in the first place.
+I have finished **Civil Engineering studies in Warsaw University of Technology** with a title of Master of Science as well as Computer Science Diploma in **Frontend Development with React** on Kozminski University. Currently I am also studying **Python Development** on Komzinski University.
 
-- 🌱 I’m currently improving in `node.js`, `next.js`, `typescript`
+- 🌱 I’m currently improving in `Python`, `next.js`, `typescript`
 - 📫 How to reach me: [My website](https://zasada94.github.io/zasadaportfolio/)
 
 ### Skills, languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,git,nodejs,nextjs,php,vite,vscode,figma,netlify,express,github,mongodb,netlify,postman,redux,webpack,jest,ps,bootstrap,jquery,heroku,bash&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,php,git,nodejs,nextjs,php,vite,vscode,figma,linux,netlify,express,github,mongodb,netlify,postman,redux,webpack,jest,ps,bootstrap,jquery,heroku,bash&perline=9)](https://skillicons.dev)
 
 
 ### Other abilities and certificates:
