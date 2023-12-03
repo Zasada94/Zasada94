@@ -9,7 +9,7 @@ I have finished **Civil Engineering studies in Warsaw University of Technology**
 - 📫 How to reach me: [My website](https://zasada94.github.io/zasadaportfolio/)
 
 ### Skills, languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,php,git,nodejs,nextjs,php,vite,vscode,figma,linux,netlify,express,github,mongodb,netlify,postman,redux,webpack,jest,ps,bootstrap,jquery,heroku,bash&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,php,git,nodejs,nextjs,php,vite,vscode,figma,linux,netlify,express,github,mongodb,netlify,postman,redux,webpack,jest,ps,bootstrap,jquery,heroku,bash&perline=10)](https://skillicons.dev)
 
 
 ### Other abilities and certificates:
