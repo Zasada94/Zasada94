@@ -1,5 +1,4 @@
 ## Hi there 👋 I am Paweł Zasada
-### Full-stack Developer.
 
 I am a **Full-stack developer currently working in Telewizja Polsat** company on HbbTV apps and dashboards. I am a graduated Enginneer** experienced in JavaScript programming**.
 
