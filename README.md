@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Paweł Zasada
 
-I am a **Full-stack developer currently working in Telewizja Polsat** company on HbbTV apps and dashboards. I am a graduated Enginneer **experienced in JavaScript programming**.
+I am a **Full-stack developer currently providing various programming services** like HbbTV apps and dashboards or websites. I am a graduated Enginneer **experienced in JavaScript programming**.
 
 I have finished **Civil Engineering studies in Warsaw University of Technology** with a title of Master of Science as well as Computer Science Diploma in **Frontend Development with React** on Kozminski University. Currently I am also studying **Python Development** on Komzinski University.
 
@@ -8,7 +8,7 @@ I have finished **Civil Engineering studies in Warsaw University of Technology**
 - 📫 How to reach me: [My website](https://zasada94.github.io/zasadaportfolio/)
 
 ### Skills, languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,php,git,nodejs,nextjs,vite,vscode,figma,linux,netlify,express,github,mongodb,netlify,postman,redux,webpack,jest,ps,bootstrap,jquery,heroku,bash&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nextjs,php,python,sass,git,figma,postman,vercel,vscode,linux,react,css,html,nodejs,vite,netlify,express,github,mongodb,netlify,redux,webpack,jest,ps,bootstrap,jquery,heroku,bash&perline=10)](https://skillicons.dev)
 
 
 ### Other abilities and certificates:
